@@ -23,7 +23,7 @@
 - 🌱 Building practical projects across **Web Development**, **Data Analysis**, and **Algorithms**
 - 💻 Core languages: **JavaScript**, **Python**, **PHP**, and **HTML/CSS**
 - 🔍 Focused on turning ideas into clean, interactive applications
-- 📫 Reach me on GitHub: [@samarbhopale](https://github.com/samarbhopale) (https://www.linkedin.com/in/samar-bhopale-415675306/) *(/ Email / Portfolio here)*
+- 📫 Reach me on GitHub: [@samarbhopale](https://github.com/samarbhopale) (https://www.linkedin.com/in/samar-bhopale-415675306/)(samarbhopale@gmail.com)
 
 ---
 
